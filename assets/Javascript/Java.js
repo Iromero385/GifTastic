@@ -10,7 +10,8 @@ var initializingButtons = function(){
       
       $("#buttonArea").append(newBotton);
     }
-  }   
+  }
+     
 initializingButtons();
   $(document).on("click",".gifButton", function() {
       var newTag = $(this).attr("data-tag")
