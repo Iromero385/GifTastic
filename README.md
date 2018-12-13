@@ -1,11 +1,17 @@
 # GifTastic
 
-## Instrutction
+## Intruduction
 
-This app will get you any gif. Use the input box to create a button. This button will make an AJAX call and get you some gifs.have fun.
+This app was created to practice AJAX calls, dynamic creation of buttons using jquery. 
+
+## Instructions
+Enter a 90's show in the input box. Once done click on the submit button to create a button. This button will display 10 gifs. 
 
 ## Tech Used
- We used jquery to dynamically create buttons on the page and target them once created. Then we used jquery again to create AJAX calls. The layout is done with bootstrap. 
+* Bootstrap
+* Jquery
+* Javascript
+* CSS
  
  ## Future Developement
  
