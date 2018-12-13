@@ -15,7 +15,7 @@ Enter a 90's show in the input box. Once done click on the submit button to crea
  
  ## Future Developement
  
- No future Development at this time. This project is mostly to practice AJAX calls.
+ No future development at this time. This project is mostly to practice AJAX calls.
  
  ## Examples
  
